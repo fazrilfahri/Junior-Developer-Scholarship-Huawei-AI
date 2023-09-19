@@ -5,7 +5,6 @@
 The Junior Developer Scholarship by Huawei AI program includes two case studies that give budding developers the opportunity to understand and practice in key topics of artificial intelligence and data processing.
 
 ### [1. Using TensorFlow for Tensor Manipulation and Tensor Operations in Data Management](https://github.com/fazrilfahri/Junior-Developer-Scholarship-Huawei-AI/blob/4f532599f0bb5e97e8ae76f04a1a88f7c4d13422/Utilizing%20TensorFlow%20for%20Tensor%20Manipulation%20and%20Formation.ipynb)
-
 This case study goes in-depth on how to use TensorFlow software for manipulation and operations on tensors. Tensors are fundamental data structures in machine learning and artificial intelligence. In this case study, you will explore examples of using TensorFlow in data processing and analysis.
 
 ### [2. Fashion Image Classification with Convolutional Neural Network (CNN) Models](https://github.com/fazrilfahri/Junior-Developer-Scholarship-Huawei-AI/blob/4f532599f0bb5e97e8ae76f04a1a88f7c4d13422/Fashion%20Image%20Classification.ipynb)
